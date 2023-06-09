@@ -1,0 +1,25 @@
+.tarjeta{
+   display:inline-flex;
+   width: 150px;
+   border: 1px solid blueviolet;
+   border-radius: 10px;
+   box-shadow: 2px 2px 8px 4px;
+   margin: 50px;
+   background-color: aqua;
+   
+}
+
+.interior{
+    background-color: aqua;
+    
+}
+
+.interior img{
+    width: 150px
+}
+
+.info{
+    font-family: fantasy;
+    font-style: oblique;
+    
+}
